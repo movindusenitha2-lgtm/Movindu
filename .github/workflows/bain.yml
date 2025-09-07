@@ -31,5 +31,3 @@ jobs:
 
     - name: Start application
       run: npm start
-Copy
-Setup Guide: How to Run
